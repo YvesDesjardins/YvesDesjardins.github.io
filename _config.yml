@@ -20,8 +20,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>JavaScript</mark> and <mark>Eating Pizza</mark>
 
-Projects Section
-projects_title: Projects
+# Projects Section
+# projects_title: Projects
 
 # Experience Section
 # experience_title: Experience
