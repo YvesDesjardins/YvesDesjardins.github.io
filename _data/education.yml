@@ -1,9 +1,8 @@
-- name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
+- name: Lighthouse Labs
+  qualification: Intensive Web Development Bootcamp
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    'Lighthouse Labs was created in 2013 by a team of software developers with a passion for code, mentorship, and education. Our mission: to continuously find the best ways to train the next generation of developers and transform the way tech education is delivered. Five years later, we have introduced over 20,000 Canadians to the practice of coding and launched 1,000+ graduates into careers as professional developers. With the support of a brilliant team of instructors and mentors who view coding as the ultimate craft, we continue to empower students, launch careers, and contribute to the incredible growth of Canada’s tech industry.'
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    Text to come here shortly!
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis nibh nec dictum efficitur. Donec dui urna, ultricies sit amet ultricies sit amet, congue non nisl. Nulla lobortis faucibus risus a pretium. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc eu laoreet nisi. Sed enim felis, convallis at rutrum tincidunt, facilisis et orci. Donec non maximus nisl. Proin vel ipsum vulputate, gravida nunc at, imperdiet libero. Nulla semper purus sed dolor tincidunt eleifend. Sed porta in odio ut fringilla.
