@@ -16,7 +16,8 @@ linkedin_username: YvesIpDesjardins
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Yves and I'm a junior full-stack developer. As well as building web apps I have also had some experience making simple iOS apps and Java programs. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Yves and I'm a full-stack web developer with experience in the finance industry and some formal education in Computer Science. I have previously built small apps in Java and C# for iOS as a side hobby while in the banking industry. I'm passionate about continuing to learn and develop my skillset as a developer in order to build out bigger and better applications.
+
 
   Skills: 
     - Languages: <mark>JavaScript</mark> <mark>Ruby</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>Java</mark> <mark>C#</mark>
