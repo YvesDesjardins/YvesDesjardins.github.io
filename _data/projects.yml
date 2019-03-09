@@ -1,7 +1,17 @@
 - name: Do It (Midterm project at Lighthouse Labs)
   link: github.com/rachelgould/smart-todo
   github: rachelgould/smart-todo
-  # quote: >
-  #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
     This project was worked on by myself and two other students with the intent being to build a single page "smart" todo list. I was responsible for building out the back-end of the project along with the database. Through this experience I have further developed my knowledge of proper <mark>Git</mark> usage in groups, <mark>postgreSQL</mark> and routing in <mark>Express</mark>. 
+
+- name: Tweeter
+  link: github.com/yvesdesjardins/tweeter
+  github: yvesdesjardins/tweeter
+  description: | # this will include new lines to allow paragraphs
+    This is a project to emulate a Twitter style site as a single-page web app. I utilized <mark>SASS</mark> <mark>JQuery</mark> and <mark>Javascript</mark> for the front-end and <mark>MongoDB</mark> along with <mark>Express</mark> for the back-end.
+
+- name: Tiny-App
+  link: github.com/yvesdesjardins/tinyapp
+  github: yvesdesjardins/tinyapp
+  description: | # this will include new lines to allow paragraphs
+    A single page web app built to emulate webpage shorteners like Bit.ly. I built this project using <mark>Javascript</mark> and <mark>EJS</mark> for the front-end, <mark>NodeJS</mark> and <mark>Express</mark> for the back-end.
