@@ -3,4 +3,18 @@
   job_title: Senior Financial Service Representative
   dates: Jul 2018 - Jan 2019
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    During my short contract period with CIBC I assisted their team of junior sales staff with training and basic team building exercises.
+
+- company: Sphere
+  link: spherethat.ca
+  job_title: Director of Business Development
+  dates: Feb 2017 - Jul 2018
+  description: | # this will include new lines to allow paragraphs
+    While at Sphere I was tasked with building out their business partnerships and assisting them with increasing net revenue. Aside from this I also aided in the training of other junior members of the sales team.
+
+- company: Scotiabank
+  link: scotiabank.com
+  job_title: Senior Financial Advisor
+  dates: Nov 2014 - Feb 2017
+  description: | # this will include new lines to allow paragraphs
+    At Scotiabank I worked my way from a junior sales officer to a senior role over the 3 years I was with them. During that time I learned how to assist clients, work with a team accross departments and deal with tight time constraints.
