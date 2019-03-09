@@ -19,10 +19,10 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Yves and I'm a junior fullstack developer. As well as building web apps I have also had some experience making simple iOS apps and Java programs. I have worked at a number of companies gaining teamwork and leadership skills.
 
   Skills: 
-    - Languages: <mark>JavaScript</mark>, <mark>Ruby</mark>, <mark>HTML</mark>, <mark>CSS</mark>, <mark>Java</mark>, <mark>C#</mark>
-    - Frameworks/Libraries: <mark>NodeJS</mark>, <mark>ReactJS</mark>, <mark>Ruby on Rails</mark>, <mark>Express</mark>, <mark>Knex</mark>, <mark>Ajax</mark>, <mark>JQuery</mark>, <mark>SASS</mark>, <mark>Bootstrap</mark>
-    - Systems/Databases: <mark>SQL</mark>, <mark>MongoDB</mark>, <mark>Git</mark>
-    - Spoken languages: <mark>English</mark>, <mark>Cantonese</mark> (basic)
+    - Languages: <mark>JavaScript</mark> <mark>Ruby</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>Java</mark> <mark>C#</mark>
+    - Frameworks/Libraries: <mark>NodeJS</mark> <mark>ReactJS</mark> <mark>Ruby on Rails</mark> <mark>Express</mark> <mark>Knex</mark> <mark>Ajax</mark> <mark>JQuery</mark> <mark>SASS</mark> <mark>Bootstrap</mark>
+    - Systems/Databases: <mark>SQL</mark> <mark>MongoDB</mark> <mark>Git</mark>
+    - Spoken languages: <mark>English</mark> <mark>Cantonese (basic)</mark>
 
 # Projects Section
 # projects_title: Projects
