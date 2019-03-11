@@ -21,7 +21,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   Skills: 
     - Languages: <mark>JavaScript</mark> <mark>Ruby</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>Java</mark> <mark>Objective-C</mark>
-    - Frameworks/Libraries: <mark>NodeJS</mark> <mark>ReactJS</mark> <mark>Ruby on Rails</mark> <mark>Express</mark> <mark>Knex</mark> <mark>Ajax</mark> <mark>JQuery</mark> <mark>SASS</mark> <mark>Bootstrap</mark> <mark>PG</mark> <mark>EJS</mark> <mark>JSX</mark>
+    - Frameworks/Libraries: <mark>NodeJS</mark> <mark>ReactJS</mark> <mark>Ruby on Rails</mark> <mark>Express</mark> <mark>Knex</mark> <mark>Ajax</mark> <mark>JQuery</mark> <mark>SASS</mark> <mark>Bootstrap</mark> <mark>PG</mark> <mark>EJS</mark>
     - Systems/Databases: <mark>SQL</mark> <mark>MongoDB</mark> <mark>Git</mark>
     - Spoken languages: <mark>English</mark> <mark>Cantonese (basic)</mark>
 
