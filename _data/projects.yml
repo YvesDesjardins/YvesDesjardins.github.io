@@ -8,7 +8,7 @@
   link: github.com/yvesdesjardins/tweeter
   github: yvesdesjardins/tweeter
   description: | # this will include new lines to allow paragraphs
-    This is a project to emulate a Twitter style site as a single-page web app. I utilized <mark>SASS</mark> <mark>JQuery</mark> and <mark>Javascript</mark> for the front-end and <mark>MongoDB</mark> along with <mark>Express</mark> for the back-end.
+    This is a project to emulate a Twitter style site as a single-page web app. I utilized <mark>SASS</mark> <mark>jQuery</mark> and <mark>Javascript</mark> for the front-end and <mark>MongoDB</mark> along with <mark>Express</mark> for the back-end.
 
 - name: Tiny-App
   link: github.com/yvesdesjardins/tinyapp
