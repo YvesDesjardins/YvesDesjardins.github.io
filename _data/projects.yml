@@ -2,7 +2,7 @@
   link: github.com/rachelgould/smart-todo
   github: rachelgould/smart-todo
   description: | # this will include new lines to allow paragraphs
-    This project was worked on by myself and two other students with the intent being to build a single page "smart" todo list. I was responsible for building out the back-end of the project along with the database. Through this experience I have further developed my knowledge of proper <mark>Git</mark> usage in groups, <mark>postgreSQL</mark> and routing in <mark>Express</mark>. 
+    This project was worked on by myself and two other students with the intent being to build a single page "smart" todo list. I was responsible for building out the back-end of the project along with the database. Through this experience I have further developed my knowledge of proper <mark>Git</mark> usage in groups, <mark>SQL</mark> database and routing in <mark>Express</mark>. 
 
 - name: Tweeter
   link: github.com/yvesdesjardins/tweeter
