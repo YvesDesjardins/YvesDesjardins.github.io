@@ -1,3 +1,9 @@
+- name: Chatty-App - Mar 2019
+  link: github.com/yvesdesjardins/chattyapp
+  github: yvesdesjardins/chattyapp
+  description: | # this will include new lines to allow paragraphs
+    This was a single page app built in <mark>ReactJS</mark> to emulate a Slack style chat program. I have implemented the use of hooks into this project in order to get more exposure to this new addition. I also utilized <mark>WebSockets</mark> for communication between the back-end server and any clients who have connected. <mark>JSX</mark> was also heavily utilized to correctly build the elements and have them display correctly to clients.
+
 - name: Do It - Mar 2019
   link: github.com/rachelgould/smart-todo
   github: rachelgould/smart-todo
