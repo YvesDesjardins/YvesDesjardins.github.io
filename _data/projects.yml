@@ -1,22 +1,26 @@
-- name: Chatty-App - Mar 2019
+- name: Chatty-App
+  date: Mar 2019
   link: github.com/yvesdesjardins/chattyapp
   github: yvesdesjardins/chattyapp
   description: | # this will include new lines to allow paragraphs
     This was a single page app built in <mark>ReactJS</mark> to emulate a Slack style chat program. I have implemented the use of hooks into this project in order to get more exposure to this new addition. I also utilized <mark>WebSockets</mark> for communication between the back-end server and any clients who have connected. <mark>JSX</mark> was also heavily utilized to correctly build the elements and have them display correctly to clients.
 
-- name: Do It - Mar 2019
+- name: Do It
+  date: Mar 2019
   link: github.com/rachelgould/smart-todo
   github: rachelgould/smart-todo
   description: | # this will include new lines to allow paragraphs
     This midterm project was worked on by myself and two other students with the intent being to build a single page "smart" todo list. I was responsible for building out the back-end of the project along with the database. Through this experience I have further developed my knowledge of proper <mark>Git</mark> usage in groups, <mark>SQL</mark> and <mark>Knex</mark> for database work and routing with <mark>Express</mark>. 
 
-- name: Tweeter - Feb 2019
+- name: Tweeter
+  date: Feb 2019
   link: github.com/yvesdesjardins/tweeter
   github: yvesdesjardins/tweeter
   description: | # this will include new lines to allow paragraphs
     This is a project to emulate a Twitter style site as a single-page web app. I utilized <mark>SASS</mark> <mark>jQuery</mark> and <mark>Javascript</mark> for the front-end and <mark>MongoDB</mark> along with <mark>Express</mark> for the back-end.
 
-- name: Tiny-App - Feb 2019
+- name: Tiny-App
+  date: Feb 2019
   link: github.com/yvesdesjardins/tinyapp
   github: yvesdesjardins/tinyapp
   description: | # this will include new lines to allow paragraphs
