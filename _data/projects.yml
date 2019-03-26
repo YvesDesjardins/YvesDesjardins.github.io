@@ -17,7 +17,7 @@
   link: github.com/rachelgould/smart-todo
   github: rachelgould/smart-todo
   description: | # this will include new lines to allow paragraphs
-    This midterm project was worked on by myself and two other students with the intent being to build a single page "smart" todo list. I was responsible for building out the back-end of the project along with the database. Through this experience I have further developed my knowledge of proper <mark>Git</mark> usage in groups, <mark>SQL</mark> and <mark>Knex</mark> for database work and routing with <mark>Express</mark>. 
+    This project was a single page "smart" todo list that I completed in a group of 3. I was responsible for building out the back-end of the project along with the database. Through this experience I have further developed my knowledge of proper <mark>Git</mark> usage in groups, <mark>SQL</mark> and <mark>Knex</mark> for database work and routing with <mark>Express</mark>. 
 
 - name: Tweeter
   date: Feb 2019
