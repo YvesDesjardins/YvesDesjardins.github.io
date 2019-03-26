@@ -1,3 +1,10 @@
+- name: Jungle
+  date: Mar 2019
+  link: github.com/yvesdesjardins/jungle-rails
+  github: yvesdesjardins/jungle-rails
+  description: | # this will include new lines to allow paragraphs
+    An e-commerce app built with <mark>Ruby</mark> and <mark>Ruby on Rails</mark>. I inherited an existing template and was responsible for implementing new features such as purchasing, proper cart behaviour and emailing invoices while growing accustomed to learning a new language and framework. I also used this as a base to look into unit and feature testing via <mark>RSpec</mark> <mark>Capybara</mark> and <mark>Poltergeist</mark>.
+
 - name: Chatty-App
   date: Mar 2019
   link: github.com/yvesdesjardins/chattyapp
@@ -6,7 +13,7 @@
     This was a single page app built in <mark>ReactJS</mark> to emulate a Slack style chat program. I have implemented the use of hooks into this project in order to get more exposure to this new addition. I also utilized <mark>WebSockets</mark> for communication between the back-end server and any clients who have connected. <mark>JSX</mark> was also heavily utilized to correctly build the elements and have them display correctly to clients.
 
 - name: Do It
-  date: Mar 2019
+  date: Feb - Mar 2019
   link: github.com/rachelgould/smart-todo
   github: rachelgould/smart-todo
   description: | # this will include new lines to allow paragraphs
