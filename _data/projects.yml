@@ -1,3 +1,10 @@
+- name: GraphQL Server Test
+  date: May - May 2019
+  link: github.com/YvesDesjardins/graphql_server_test
+  github: yvesdesjardins/graphql_server_test
+  description: | # this will include new lines to allow paragraphs
+    Playground project to test implementation of <mark>GraphQL</mark> into a <mark>NodeJS</mark> <mark>Express</mark> backend. The project makes use of <mark>Prisma</mark> for database management and is hosted on <mark>Heroku</mark> for remote access and testing.
+
 - name: CafeDesk
   date: Mar - Apr 2019
   link: github.com/yvesdesjardins/cafedesk-server
