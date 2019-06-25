@@ -25,7 +25,7 @@ about_skills: |
     - Frameworks/Libraries: <mark>NodeJS</mark> <mark>ReactJS</mark> <mark>Ruby on Rails</mark> <mark>Django</mark> <mark>Express</mark> <mark>Axios</Mark> <mark>Sequelize</mark> <mark>Knex</mark> <mark>Ajax</mark> <mark>jQuery</mark> <mark>SASS</mark> <mark>Bootstrap</mark> <mark>PG</mark> <mark>Prisma</mark>
     - Protocols: <mark>HTTP</mark> <mark>HTTPS</mark> <mark>WebSockets</mark>
     - Systems/Databases: <mark>PostgreSQL</mark> <mark>SQL</mark> <mark>MongoDB</mark> <mark>Git</mark>
-    - Testing: <mark>Mocha</mark> <mark>RSpec</mark> <mark>Capybara</mark> <mark>Poltergeist</mark> <mark>Jest</mark>
+    - Testing: <mark>Mocha</mark> <mark>RSpec</mark> <mark>Capybara</mark> <mark>Poltergeist</mark> <mark>Jest</mark> <mark>Selenium</mark>
     - Continuous Integration/Delivery (CI/CD): <mark>CircleCI</mark> <mark>Heroku</mark>
     - Spoken languages: <mark>English</mark> <mark>Cantonese (basic)</mark>
 

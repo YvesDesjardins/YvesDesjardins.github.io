@@ -3,7 +3,7 @@
   job_title: Full Stack Developer
   dates: May 2019 - Current
   description: | # this will include new lines to allow paragraphs
-    Full stack developer with The Perk. Working with <mark>NodeJS</mark> <mark>GraphQL</mark> <mark>Express</mark> <mark>Knex</mark> <mark>Bookshelf</mark> <mark>Apollo Server</mark> <mark>CircleCI</mark>
+    Full stack developer with The Perk. Working with <mark>NodeJS</mark> <mark>GraphQL</mark> <mark>Express</mark> <mark>Knex</mark> <mark>Bookshelf</mark> <mark>Apollo Server</mark> <mark>CircleCI</mark> <mark>Selenium</mark>
 
 - company: CIBC
   link: cibc.com
