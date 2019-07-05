@@ -26,7 +26,7 @@ about_skills: |
     - Protocols: <mark>HTTP</mark> <mark>HTTPS</mark> <mark>WebSockets</mark>
     - Systems/Databases: <mark>PostgreSQL</mark> <mark>SQL</mark> <mark>MongoDB</mark> <mark>Git</mark>
     - Testing: <mark>Mocha</mark> <mark>RSpec</mark> <mark>Capybara</mark> <mark>Poltergeist</mark> <mark>Jest</mark> <mark>Selenium</mark>
-    - DevOps: <mark>Kubernetes</mark> <mark>AWS</mark> <mark>CircleCI</mark> <mark>Heroku</mark> <mark>Netlify</mark>
+    - DevOps: <mark>Kubernetes</mark> <mark>AWS</mark> <mark>CircleCI</mark> <mark>Heroku</mark> <mark>Netlify</mark> <mark>Docker</mark>
     - Spoken languages: <mark>English</mark> <mark>Cantonese (basic)</mark>
 
 # Projects Section

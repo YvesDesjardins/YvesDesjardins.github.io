@@ -3,7 +3,7 @@
   job_title: Full Stack Developer / DevOps
   dates: May 2019 - Current
   description: | # this will include new lines to allow paragraphs
-    Full stack developer and DevOps with The Perk. My responsibilities include both working on developing our application along side the development team and transitioning our project from monolithic to a more microservice based architecture. Working with <mark>NodeJS</mark> <mark>GraphQL</mark> <mark>Express</mark> <mark>Knex</mark> <mark>Bookshelf</mark> <mark>Apollo Server</mark> <mark>CircleCI</mark> <mark>Selenium</mark> <mark>Kubernetes</mark> <mark>AWS</mark>
+    Full stack developer and DevOps with The Perk. My responsibilities include both working on developing our application along side the development team and transitioning our project from monolithic to a more microservice based architecture. Working with <mark>NodeJS</mark> <mark>GraphQL</mark> <mark>Express</mark> <mark>Knex</mark> <mark>Bookshelf</mark> <mark>Apollo Server</mark> <mark>CircleCI</mark> <mark>Selenium</mark> <mark>Kubernetes</mark> <mark>AWS</mark> <mark>Docker</mark>
 
 - company: CIBC
   link: cibc.com
