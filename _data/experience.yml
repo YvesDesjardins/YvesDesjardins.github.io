@@ -1,9 +1,9 @@
 - company: The Perk
   link: getperk.co
-  job_title: Full Stack Developer
+  job_title: Full Stack Developer / DevOps
   dates: May 2019 - Current
   description: | # this will include new lines to allow paragraphs
-    Full stack developer with The Perk. Working with <mark>NodeJS</mark> <mark>GraphQL</mark> <mark>Express</mark> <mark>Knex</mark> <mark>Bookshelf</mark> <mark>Apollo Server</mark> <mark>CircleCI</mark> <mark>Selenium</mark>
+    Full stack developer with The Perk. Working with <mark>NodeJS</mark> <mark>GraphQL</mark> <mark>Express</mark> <mark>Knex</mark> <mark>Bookshelf</mark> <mark>Apollo Server</mark> <mark>CircleCI</mark> <mark>Selenium</mark> <mark>Kubernetes</mark> <mark>Amazon AWS</mark>
 
 - company: CIBC
   link: cibc.com
