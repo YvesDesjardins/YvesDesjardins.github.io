@@ -3,7 +3,7 @@
   link: github.com/YvesDesjardins/ReadditBot
   github: yvesdesjardins/ReadditBot
   description: | # this will include new lines to allow paragraphs
-    Build out a Reddit bot in <mark>NodeJS</mark> to output comments posted to r/all. Unit testing using <mark>Chai</mark> and <mark>Mocha</mark> with hosting on <mark>Heroku</mark>.
+    Simple Reddit bot built in <mark>NodeJS</mark> to output comments posted to r/all. Unit testing using <mark>Chai</mark> and <mark>Mocha</mark> with hosting on <mark>Heroku</mark>.
 
 - name: GraphQL Server Test
   date: May - May 2019
