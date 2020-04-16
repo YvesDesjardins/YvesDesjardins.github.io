@@ -1,3 +1,10 @@
+- name: Project Boost
+  date: Apr 2020
+  link: github.com/YvesDesjardins/Project_Boost
+  github: yvesdesjardins/Project_Boost
+  description: | # this will include new lines to allow paragraphs
+    2.5D game built in <mark>Unity</mark> with <mark>C#</mark>. Pilot a rocket ship to get from a launch pad to the marked destination while avoiding the obstacles.
+
 - name: ReadditBot
   date: Feb 2020
   link: github.com/YvesDesjardins/ReadditBot
