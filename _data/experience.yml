@@ -1,3 +1,11 @@
+- company: Student
+  link: github.com/YvesDesjardins
+  job_title: Student
+  dates: Jan 2020 - Present
+  description: | # this will include new lines to allow paragraphs
+    Continued education into Computer Science fundamentals including deep dive on data structures and algorithms. Courses from online universities such as HarvardX and certificate programs with Udemy.
+
+
 - company: The Perk
   link: getperk.co
   job_title: Full Stack Developer
