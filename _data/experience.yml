@@ -1,8 +1,9 @@
 - company: Later
-  link: later.com/
+  link: later.com
   job_title: Software Developer
   dates: May 2020 - Present
   description: | # this will include new lines to allow paragraphs
+    Front-end developer position on a team specifically tasked with building and improving Later's customer-facing analytics. Main duties involve planning, producing and maintaining features; mentoring co-ops and new hires on the team. Working with <mark>EmberJS</mark> <mark>Javascript</mark> <mark>Typescript</mark> <mark>CircleCI</mark> <mark>QUnit</mark> <mark>Mirage</mark>
 
 - company: The Perk
   link: getperk.co
@@ -31,10 +32,3 @@
   dates: Nov 2014 - Feb 2017
   description: | # this will include new lines to allow paragraphs
     At Scotiabank I worked my way from a junior sales officer to a senior role over the 3 years I was with them. During that time I learned how to assist clients, work with a team across departments and deal with tight time constraints.
-
-- company: Quam Securities Company Ltd.
-  link: quamnet.com
-  job_title: Software developer intern
-  dates: Jun - Jul 2009
-  description: | # this will include new lines to allow paragraphs
-    At Quam, I built out a media player for use on their website using Flash Action Script. Along with this, I helped in maintaining the webpage and error checking other Flash-based resources.
