@@ -4,6 +4,7 @@
   dates: Feb 2023 - Present
   description: | # this will include new lines to allow paragraphs
     Experienced Front End Team Lead with a proven track record of successfully managing and leading a team of up to 3 direct reports. Skilled in delivering features and fixes promptly while ensuring high code quality and comprehensive test coverage. Key responsibilities include team management, strategic feature planning, mentorship, software development.
+    <br>
     Working with <mark>EmberJS</mark> <mark>Typescript</mark> <mark>Javascript</mark> <mark>CircleCI</mark> <mark>QUnit</mark> <mark>Mirage</mark>
 
 - company: Later
@@ -12,6 +13,7 @@
   dates: May 2020 - Feb 2023
   description: | # this will include new lines to allow paragraphs
     Front End developer position on a team specifically tasked with building and improving Later's customer-facing analytics. Main duties involve planning, producing and maintaining features; mentoring co-ops and new hires on the team.
+    <br>
     Working with <mark>EmberJS</mark> <mark>Typescript</mark> <mark>Javascript</mark> <mark>CircleCI</mark> <mark>QUnit</mark> <mark>Mirage</mark>
 
 - company: The Perk
@@ -20,4 +22,5 @@
   dates: May - Dec 2019
   description: | # this will include new lines to allow paragraphs
     Full stack developer with The Perk with a heavy focus towards the back-end. Main duties involve planning and creating features and changes to the code-base while coordinating with my team members and providing mentorship/assistance.
+    <br>
     Working with <mark>NodeJS</mark> <mark>GraphQL</mark> <mark>Express</mark> <mark>Knex</mark> <mark>Bookshelf</mark> <mark>Apollo Server</mark> <mark>CircleCI</mark> <mark>Selenium</mark> <mark>Kubernetes</mark> <mark>AWS</mark> <mark>Docker</mark>
