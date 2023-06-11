@@ -1,9 +1,16 @@
 - company: Later
   link: later.com
-  job_title: Software Developer
-  dates: May 2020 - Present
+  job_title: Front End Team Lead
+  dates: June 2023 - Present
   description: | # this will include new lines to allow paragraphs
-    Front-end developer position on a team specifically tasked with building and improving Later's customer-facing analytics. Main duties involve planning, producing and maintaining features; mentoring co-ops and new hires on the team. Working with <mark>EmberJS</mark> <mark>Javascript</mark> <mark>Typescript</mark> <mark>CircleCI</mark> <mark>QUnit</mark> <mark>Mirage</mark>
+    Experienced Front End Team Lead with a proven track record of successfully managing and leading a team of up to 3 direct reports. Skilled in delivering features and fixes promptly while ensuring high code quality and comprehensive test coverage. Key responsibilities include team management, strategic feature planning, mentorship, software development. Working with <mark>EmberJS</mark> <mark>Typescript</mark> <mark>Javascript</mark> <mark>CircleCI</mark> <mark>QUnit</mark> <mark>Mirage</mark>
+
+- company: Later
+  link: later.com
+  job_title: Software Developer
+  dates: May 2020 - June 2023
+  description: | # this will include new lines to allow paragraphs
+    Front End developer position on a team specifically tasked with building and improving Later's customer-facing analytics. Main duties involve planning, producing and maintaining features; mentoring co-ops and new hires on the team. Working with <mark>EmberJS</mark> <mark>Typescript</mark> <mark>Javascript</mark> <mark>CircleCI</mark> <mark>QUnit</mark> <mark>Mirage</mark>
 
 - company: The Perk
   link: getperk.co
