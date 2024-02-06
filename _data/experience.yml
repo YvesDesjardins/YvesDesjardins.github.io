@@ -3,7 +3,7 @@
   job_title: Software Developer
   dates: May 2020 - Present
   description: | # this will include new lines to allow paragraphs
-    <ul>
+    <ul class="experience-list">
       <li>Utilized modern front-end frameworks to build highly scalable applications that serve millions of active users</li>
       <li>Served as a team lead for over a year managing 3 engineers in implementing new AI-based features</li>
       <li>Built out and maintained the user-facing analytics feature and championed its usage throughout the app</li>
