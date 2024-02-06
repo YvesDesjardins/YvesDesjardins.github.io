@@ -1,18 +1,16 @@
 - company: Later
   link: later.com
-  job_title: Software Development Team Lead
-  dates: Feb 2023 - Present
-  description: | # this will include new lines to allow paragraphs
-    Experienced Front End Team Lead with a proven track record of successfully managing and leading a team of up to 3 direct reports. Skilled in delivering features and fixes promptly while ensuring high code quality and comprehensive test coverage. Key responsibilities include team management, strategic feature planning, mentorship, software development.
-    <br>
-    <mark>EmberJS</mark> <mark>Typescript</mark> <mark>Javascript</mark> <mark>CircleCI</mark> <mark>QUnit</mark> <mark>Mirage</mark>
-
-- company: Later
-  link: later.com
   job_title: Software Developer
-  dates: May 2020 - Feb 2023
+  dates: May 2020 - Present
   description: | # this will include new lines to allow paragraphs
-    Front End developer position on a team specifically tasked with building and improving Later's customer-facing analytics. Main duties involve planning, producing and maintaining features; mentoring co-ops and new hires on the team.
+    <ul>
+      <li>Utilized modern front-end frameworks to build highly scalable applications that serve millions of active users</li>
+      <li>Served as a team lead for over a year managing 3 engineers in implementing new AI-based features</li>
+      <li>Built out and maintained the user-facing analytics feature and championed its usage throughout the app</li>
+      <li>Worked on transitioning the wider codebase from Javascript to Typescript to aid with ongoing code quality improvements</li>
+      <li>Spearheaded development on numerous high-impact and fast-paced projects to fill business needs and drive further revenue growth</li>
+      <li>Experienced with scrum methodologies and use of Jira in project tracking</li>
+    </ul>
     <br>
     <mark>EmberJS</mark> <mark>Typescript</mark> <mark>Javascript</mark> <mark>CircleCI</mark> <mark>QUnit</mark> <mark>Mirage</mark>
 
