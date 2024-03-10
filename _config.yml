@@ -3,21 +3,21 @@
 # favicon: images/favicon.ico
 
 # Personal info
-name: Yves Ip Desjardins
+name: Yves Desjardins
 title: Software Developer
 email: YvesDesjardins@gmail.com
 website: www.github.com/YvesDesjardins
 # phone: +1(604)401-4639
 
 # Social links
-github_username:  YvesDesjardins
+github_username: YvesDesjardins
 linkedin_username: YvesIpDesjardins
 
 # About Section
 # about_title: About Me
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, I'm Yves, a software developer with expertise in front-end development and team management.
+  Hello! I’m Yves Desjardins, a passionate software developer with expertise in building out web apps and team management
 
 about_skills: |
   **Skills:**
@@ -38,11 +38,11 @@ about_skills: |
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-   - Movies
-   - Gaming (board games and video games)
-   - PC building
-   - Scuba diving
-   - Hiking
+  - Movies
+  - Gaming (board games and video games)
+  - PC building
+  - Scuba diving
+  - Hiking
 
 # Footer
 footer_show_references: true
@@ -55,4 +55,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
