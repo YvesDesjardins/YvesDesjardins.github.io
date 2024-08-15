@@ -4,12 +4,14 @@
   dates: May 2020 - Present
   description: | # this will include new lines to allow paragraphs
     <ul class="experience-list">
+      <li>Led front-end development for Later’s first enterprise-focused feature, Social Listening, delivering on a tight timeline while maintaining high code quality. Coordinated with back-end, product, and design teams to achieve project goals</li>
       <li>Utilized modern front-end frameworks to build highly scalable applications that serve millions of active users</li>
-      <li>Served as a team lead for over a year managing 3 engineers in implementing new AI-based features</li>
-      <li>Built out and maintained the user-facing analytics feature and championed its usage throughout the app</li>
-      <li>Worked on transitioning the wider codebase from Javascript to Typescript to aid with ongoing code quality improvements</li>
-      <li>Spearheaded development on numerous high-impact and fast-paced projects to fill business needs and drive further revenue growth</li>
-      <li>Experienced with scrum methodologies and use of Jira in project tracking</li>
+      <li>Developed highly scalable applications using modern front-end frameworks, supporting millions of active users</li>
+      <li>Served as team lead for over a year, managing 3 engineers in implementing new AI-based features</li>
+      <li>Built and maintained user-facing analytics features, advocating for their integration across the app</li>
+      <li>Led the transition of the codebase from JavaScript to TypeScript, enhancing code quality and maintainability</li>
+      <li>Spearheaded development on high-impact, fast-paced projects that addressed business needs and drove revenue growth</li>
+      <li>Experienced in Scrum methodologies and proficient in using Jira for project tracking</li>
     </ul>
     <br>
     <mark>EmberJS</mark> <mark>Typescript</mark> <mark>Javascript</mark> <mark>CircleCI</mark> <mark>QUnit</mark> <mark>Mirage</mark>
