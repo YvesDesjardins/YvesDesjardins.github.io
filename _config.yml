@@ -23,7 +23,7 @@ about_content: | # this will include new lines to allow paragraphs
 about_skills: |
   **Skills:**
     - Languages: <mark>JavaScript</mark> <mark>TypeScript</mark>
-    - Frameworks/Libraries: <mark>EmberJS</mark> <mark>NodeJS</mark>
+    - Frameworks/Libraries: <mark>EmberJS</mark> <mark>React</mark> <mark>NodeJS</mark>
     - Systems/Databases: <mark>PostgreSQL</mark> <mark>SQL</mark> <mark>Git</mark>
     - Testing: <mark>QUnit</mark> <mark>Mirage</mark>
 
