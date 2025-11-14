@@ -25,7 +25,7 @@ about_skills: |
     - Languages: <mark>JavaScript</mark> <mark>TypeScript</mark> <mark>SQL</mark> <mark>Swift</mark>
     - Frontend: <mark>EmberJS</mark> <mark>React</mark> <mark>Tailwind</mark> <mark>Vite</mark> <mark>Tanstack Query</mark> <mark>Axios</mark>
     - Backend: <mark>NodeJS</mark> <mark>Express.js</mark> <mark>Prisma</mark>
-    - Databases:<mark>PostgreSQL</mark> <mark>PGVector</mark> <mark>Redis</mark> <mark>PostGIS</mark>
+    - Databases: <mark>PostgreSQL</mark> <mark>PGVector</mark> <mark>Redis</mark> <mark>PostGIS</mark>
     - DevOps & Tools: <mark>Git</mark> <mark>Docker</mark> <mark>AWS</mark> <mark>Vercel</mark> <mark>Github Actions</mark> <mark>CircleCI</mark> <mark>Render</mark>
     - Testing: <mark>QUnit</mark> <mark>Mirage</mark> <mark>Vitest</mark>
 
